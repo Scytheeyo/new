@@ -1,0 +1,7 @@
+사용법
+
+git add . - 현재 디렉토리 전부 레포지토리에 추가
+git init - 현재 폴더 새로 인식할 때 사용
+git commit -m "버전설명" - 현재 상태를 버전으로 묶어줌
+git log - 커밋 이력 확인
+git status - 현재 상태 확인 
